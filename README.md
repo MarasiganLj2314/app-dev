@@ -11,4 +11,4 @@
 
 <body>Arcane was met with critical acclaim, with praise for its animation, writing, worldbuilding, soundtrack, and voice acting, though the pacing of the second season saw a mixed response. Some have noted the series' appeal to both viewers who have never played League of Legends and longtime fans of the game. It was Netflix's highest-rated series within a week of its premiere, ranked first on the Netflix Top 10 Chart in 52 countries, and second on the chart in the United States. Several critics and publications have considered it to be one of the best video game adaptations ever made. The series won two Primetime Emmy Awards for Outstanding Animated Program, as well as the Annie Award for Best General Audience Animated Television Broadcast Production.</body>
 
-More information about the series... [Arcane info](https://en.wikipedia.org/wiki/Arcane_(TV_series).
+
